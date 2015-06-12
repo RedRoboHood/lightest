@@ -1,4 +1,4 @@
-#include "lightest.h"
+#include "lightest/lightest.h"
 
 namespace lightest {
 void Update(bool& success, const bool test_result) {
